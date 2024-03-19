@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#5170F5</color>
+    <color name="kok">#6783FA</color>
+    <color name="qizil">#FA815B</color>
+    <color name="sariq">#FDEC57</color>
+    <color name="yashil">#83FD88</color>
+    <color name="pushti">#E35FFA</color>
+    <color name="binafsha">#915BF1</color>
+
+</resources>
